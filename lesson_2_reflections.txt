@@ -19,3 +19,10 @@ logical change?
 You have the option to only add specific files to the staging area for
 a commit, so you can choose to only add files that are at a logical stopping
 point for a commit.
+
+What are some situations when branches would be helpful in keeping your
+history organized? How would branches help?
+
+If you want to try and revamp the entire codebase you would want to create
+a branch.  That way work can proceed on the main project the way it is, but
+you are still free to try out whatever you want later.
