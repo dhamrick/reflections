@@ -1,0 +1,13 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+Being able to see only the areas that changed made it so that I only
+had to look through a few parts of the code instead of all of the code.
+
+How could having easy access to the entire history of a file make you a more 
+efficient programmer in the long term?
+
+If changes you make break something, you can easily go back and find out
+what happened where and fix it without having to review the entire project.
+Also, if the project changes direction, you have older versions that you
+can go back to and build from if you are only scrapping newer changes.
+
