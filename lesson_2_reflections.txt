@@ -12,3 +12,10 @@ repository and gives you a visual of what is about to be committed from
 the working directoy to the repository.  The value is that you can make multiple
 changes and then decide what should be committed  when: you do not have to commit
 all of your changes at once.  That way you can create logical commits.
+
+How can you use the staging area to make sure you have one commit per
+logical change?
+
+You have the option to only add specific files to the staging area for
+a commit, so you can choose to only add files that are at a logical stopping
+point for a commit.
