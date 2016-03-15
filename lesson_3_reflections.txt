@@ -1,0 +1,5 @@
+Q. When would you want to use a remote repository rather than keeping all your work local?
+
+A. When you want to collaborate/show off/be able to access your work from any computer.
+It also gives you an online backup of your project incase something goes banana-bonkers
+with your computer and you lose the data on the hard drive.
