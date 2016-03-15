@@ -31,3 +31,12 @@ How do the diagrams help you visualize the branch structure?
 
 It really drove home the idea of reachability and also how you can keep
 different parts of a project separate while they are under active development.
+
+What are the pros and cons of Git’s automatic merging vs. always doing
+merges manually?
+
+With the automatic merge you do not have to go through and approve all the
+code changes, as long as there is not conflict.  However, that means you
+are not doing one last review before merging.  The manual commit takes a lot
+more time, but you get to make sure you are committing exactly what you
+want.
