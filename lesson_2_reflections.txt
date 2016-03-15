@@ -40,3 +40,5 @@ code changes, as long as there is not conflict.  However, that means you
 are not doing one last review before merging.  The manual commit takes a lot
 more time, but you get to make sure you are committing exactly what you
 want.
+
+Need to test credential.helper!
