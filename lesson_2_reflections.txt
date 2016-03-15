@@ -26,3 +26,8 @@ history organized? How would branches help?
 If you want to try and revamp the entire codebase you would want to create
 a branch.  That way work can proceed on the main project the way it is, but
 you are still free to try out whatever you want later.
+
+How do the diagrams help you visualize the branch structure?
+
+It really drove home the idea of reachability and also how you can keep
+different parts of a project separate while they are under active development.
